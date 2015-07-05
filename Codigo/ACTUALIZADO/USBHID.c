@@ -1,5 +1,3 @@
-//BY YESSER MORALES
-
 #include <18F4550.h>
 #DEVICE ADC=8
 #fuses HSPLL,NOWDT,NOPROTECT,NOLVP,NODEBUG,USBDIV,PLL5,CPUDIV1,VREGEN
@@ -72,4 +70,3 @@ void main()
        }
        }
        }
-
